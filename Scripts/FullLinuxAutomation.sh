@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Written by Jansen, edited and bugfixed by Cody
 # Unfinished- Regular File backup, Drive partitioning and formatting 
 
 # standard updates
