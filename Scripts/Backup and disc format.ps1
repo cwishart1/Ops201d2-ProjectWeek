@@ -1,3 +1,5 @@
+# Author: Cody
+
 # Needs to be combined with main ps1
 
 # Format new disc
