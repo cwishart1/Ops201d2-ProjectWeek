@@ -9,6 +9,7 @@ Keep in mind all of the below documents were thoroughly edited by Tom
 
 - Documentation made by Tom
 - CRM SOP:                                                  https://docs.google.com/document/d/1xc-pkddgESvlnQHf3DYmwhQUU86-03BNgzWHq-lVmPI/edit
+- The project tab                                           https://github.com/tomeschmusic/Ops201d2-ProjectWeek/projects/1
 
 - Documentation made by Jansen
 - Email Setup SOP                                           https://docs.google.com/document/d/1hQUDEbkUwuEV_nASO3b4mGNKfW75jLc-vAkUtM4VuWc/edit
