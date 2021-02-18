@@ -1,3 +1,5 @@
+# All original code authors mentioned below. This script was edited and revised by Tom
+
 #############TOM ESCH########################
 # Title: Sales Setup using Windows 10 Pro
 # Authors: Tom Esch, Jansen LeFever, and Cody Whishart
