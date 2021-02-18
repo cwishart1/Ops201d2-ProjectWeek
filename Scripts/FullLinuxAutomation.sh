@@ -1,6 +1,8 @@
 #!/bin/bash
-# Written by Jansen, edited and bugfixed by Cody
+# Written by Jansen, Tom and Cody.
 # Unfinished- Regular File backup, Drive partitioning and formatting 
+
+###################### Jansen #########################
 
 # standard updates
 sudo apt update
@@ -43,3 +45,23 @@ sudo dpkg -i slack-desktop-*.deb -y
 sudo apt install gconf2 -y
 gconftool-2 -s -t bool /desktop/gnome/remote_access/enabled true
 sudo apt install xrdp -y
+
+###################### Jansen #########################
+
+################ TOM ESCH ###############
+
+# Prospect Mail (Outlook Client)
+sudo apt update
+sudo apt install snapd
+sudo snap install prospect-mail
+
+# Source:
+#https://websiteforstudents.com/install-prospect-mail-unofficial-outlook-365-client-on-ubuntu-18-04/
+
+# Thunderbird Client
+sudo apt-get install thunderbird
+
+# Source:
+# https://vitux.com/how-to-install-and-setup-thunderbird-email-client-in-ubuntu/
+
+############### TOM ESCH ##################
