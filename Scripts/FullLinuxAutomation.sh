@@ -1,5 +1,5 @@
 #!/bin/bash
-# Written by Jansen, Tom and Cody.
+# All original code authors mentioned below. This script was edited and revised by Cody
 # Unfinished- Regular File backup, Drive partitioning and formatting 
 
 ###################### Jansen #########################
