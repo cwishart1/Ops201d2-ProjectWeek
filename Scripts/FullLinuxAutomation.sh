@@ -70,7 +70,7 @@ sudo apt-get install thunderbird
 ################# Cody #####################
 
 # disc partitioning, formatting and mounting
-echo 'type=83' | sudo sfdisk /deb/sdb
+echo 'type=83' | sudo sfdisk /dev/sdb
 sudo mkfs -t ext4 /dev/sdb1
 sudo mkdir -p /mt/sdb1
 sudo mount -t auto /dev/sdb1 /mt/sdb1
