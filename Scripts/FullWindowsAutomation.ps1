@@ -454,6 +454,7 @@ foreach ($app in $apps) {
     Get-AppXProvisionedPackage -Online |
         Where-Object DisplayName -EQ $app |
         Remove-AppxProvisionedPackage -Online
+}
 
 # Prevents Apps from re-installing
 $cdm = @(
