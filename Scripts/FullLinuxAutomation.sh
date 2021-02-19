@@ -1,6 +1,6 @@
 #!/bin/bash
 # All original code authors mentioned below. This script was edited and revised by Cody
-# Unfinished- Regular File backup, Drive partitioning and formatting 
+# Unfinished- Regular File backup
 
 ###################### Jansen #########################
 
@@ -65,3 +65,12 @@ sudo apt-get install thunderbird
 # https://vitux.com/how-to-install-and-setup-thunderbird-email-client-in-ubuntu/
 
 ############### TOM ESCH ##################
+
+
+################# Cody #####################
+
+# disc partitioning, formatting and mounting
+echo 'type=83' | sudo sfdisk /deb/sdb
+sudo mkfs -t ext4 /dev/sdb1
+sudo mkdir -p /mt/sdb1
+sudo mount -t auto /dev/sdb1 /mt/sdb1
